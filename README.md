@@ -147,25 +147,25 @@ Below is an overview of the primary operational interfaces of the platform:
 ### Executive Dashboard & Business Intelligence
 
 <p align="center">
-  <img src="./docs/screenshots/dashboard.jpg" alt="Executive Dashboard" width="720" />
+  <img src="./docs/screenshots/dashboard.jpg" alt="Executive Dashboard" width="480" />
 </p>
 
 ### Point of Sale (POS) & Smart Cart
 
 <p align="center">
-  <img src="./docs/screenshots/pos-sales.jpg" alt="Point of Sale & Checkout" width="720" />
+  <img src="./docs/screenshots/pos-sales.jpg" alt="Point of Sale & Checkout" width="480" />
 </p>
 
 ### Dynamic Inventory & Stock Control
 
 <p align="center">
-  <img src="./docs/screenshots/inventory.jpg" alt="Inventory Management" width="720" />
+  <img src="./docs/screenshots/inventory.jpg" alt="Inventory Management" width="480" />
 </p>
 
 ### Daily Cash Balance & WhatsApp Closure Dispatch
 
 <p align="center">
-  <img src="./docs/screenshots/reports.jpg" alt="Daily Cash Closure" width="720" />
+  <img src="./docs/screenshots/reports.jpg" alt="Daily Cash Closure" width="480" />
 </p>
 
 ---
